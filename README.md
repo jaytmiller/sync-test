@@ -1,2 +1,3 @@
-# sync-test
-Provides a test repo for the science platform git sync script
+This is a test branch for checkout to ensure that the syncer
+restores the sync to the requested branch.  Most content has been
+removed from this branch.
