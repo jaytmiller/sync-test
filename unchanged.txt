@@ -1,0 +1,2 @@
+This file should have nominal perms and remain unmodified.
+After the sync it should be locked with r/o permissions.
