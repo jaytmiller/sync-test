@@ -1,1 +1,1 @@
-This file should start out r/w but change perms to r/o
+This file should start out r/o but change perms to r/w
